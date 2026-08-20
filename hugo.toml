@@ -2,7 +2,11 @@ baseURL = "https://digital-design.cs12.ir"
 languageCode = "fa-ir"
 # بهتره که به این شکل باشه : اسم مبحث + به سبک تِرِد 
 # مثلا : شبکه به سبک تِرِد
+<<<<<<< HEAD
 title = " دیجیتال دیزاین به سبک تِرِد"
+=======
+title = "دیجیتال دیزاین به سبک ترد"
+>>>>>>> cd8806547a054b0e254163ce272545e59767f329
 
 # ===========================================
 # تنظیمات کلی سایت
@@ -16,7 +20,7 @@ threads_chap_count_per_page = 3
 
 [params.banner]
 # مثلا سیستم عامل یا شبکه
-subject = "اسم مبحث"
+subject = "دیجیتال دیزاین"
 
 # ===========================================
 # تنظیمات دارک مود
@@ -133,8 +137,21 @@ branch = "content"
 [params.giscus]
 # اسکریپتی که از giscus گرفتید رو اینجا پیست کنید
 script = '''
-
-# جای اسکریپتتون این کامنت رو پاک کنید و اسکریپت رو اینجا بزارید.
-
+<script src="https://giscus.app/client.js"
+        data-repo="The-CS12/digital-design-course"
+        data-repo-id="R_kgDOT-ZoCw"
+        data-category="General"
+        data-category-id="DIC_kwDOT-ZoC84DDyan"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="fa"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
 '''
 
