@@ -10,7 +10,7 @@ title = " دیجیتال دیزاین به سبک تِرِد"
 
 [params]
 # توضیح کوتاه برای کل سایت بیشتر بدرد seo میخوره
-description = "توضیح کوتاه مثلا یادگیری شبکه با تِرد های کوتاه"
+description = "یادگیری دیجیتال دیزاین ولی نه اونطوری که فکر میکنی"
 threads_preview_count = 3
 threads_chap_count_per_page = 3
 
@@ -42,13 +42,13 @@ text = " مگه میشه مطلبی بدون لایسنس آخه؟ لایسنس 
 # ===========================================
 
 [params.author]
-name = " ایلیا"
+name = "ایلیا"
 # بیوگرافی کوتاه نویسنده که زیر اسمش نمایش داده میشه
-bio = "دانشجوی علوم کامپیوتر و علاقمند به برنامه‌نویسی سطح پایین، در حال حاضر روی پروژه وبها کار می‌کنم"
+bio = "I'm just Iliya. Always be yourself, because you are the best..."
 # آدرس عکس پروفایل نویسنده 
-avatar = "/assets/static-pic/avatar.png"
+avatar = "/assets/static-pic/avatar.jpg"
 # لینک صفحه دونیت یا حمایت مالی
-donate_url = "#"
+donate_url = "https://coffeebede.com/arionis"
 
 # ===========================================
 # لینک‌های شبکه‌های اجتماعی نویسنده (اختیاری)
@@ -61,8 +61,8 @@ donate_url = "#"
 # مثال: {name = "github", url = "https://github.com/user"}
 
 social_links = [
-  {name = "گیت هابم", url = "https://github.com/user"},
-  {name = "تلگرام", url = "#"},
+  {name = "گیت هابم", url = "https://github.com/IliyaSa06"},
+  {name = "تلگرام", url = "https://t.me/TheArionIS"},
 ]
 
 # ===========================================
@@ -93,15 +93,15 @@ mark_read_text = "خوندی؟ کلیک کن"
 # متن دکمه بعد از کلیک (یعنی ترد خوانده شده)
 marked_read_text = "خونده نشده"
 # متن عنوان مدال تبریک بعد از خوندن ترد
-congrats_title = "تبریک عرض مینمایم"
+congrats_title = "بابا دمت گرم! تو نخونی کی بخونه آخه؟"
 # متن مدال تبریک (کاراکتر {count} با تعداد تردهای خوانده شده جایگزین میشه)
-congrats_text = "تا الان {count} ترد خوندی بنازمتتتت"
+congrats_text = "تا الان {count} ترد خوندی خیر ببینی جوون!!"
 # متن اشتراک‌گذاری (کاراکتر {title} با عنوان ترد جایگزین میشه)
 share_text = "سلام دوستان! ترد '{title}' رو بخونید، خیلی مفیده"
 # تعداد ترد در هر صفحه مربوط به اون فصل مثلا : /threads/chapter1
 threads_per_page = 5
 # آدرس عکس تبریک (بعد از خوندن ترد)
-congrats_image = "/assets/static-pic/congrat.gif"
+congrats_image = "/assets/static-pic/sticker.webp"
 
 # ===========================================
 # دست نزن به این بخش برادر من خب...
